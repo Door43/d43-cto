@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cto:home|Door43 (cto)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cto|d43-cto repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cto/archive/master.zip|d43-cto.zip]]
+
+**Recent Changes**
+{{changes>ns = cto}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cto|Ethnologue data]]
+
